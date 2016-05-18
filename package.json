@@ -1,0 +1,26 @@
+{
+  "name": "cmd",
+  "version": "1.0.0",
+  "description": "Self realization of CMD.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompileYouth/cmd.git"
+  },
+  "keywords": [
+    "CMD"
+  ],
+  "author": "CompileYouth <CompileYouth@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CompileYouth/cmd/issues"
+  },
+  "homepage": "https://github.com/CompileYouth/cmd#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
